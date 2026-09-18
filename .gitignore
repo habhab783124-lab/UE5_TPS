@@ -1,0 +1,28 @@
+# Unreal Engine generated output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.opensdf
+*.sdf
+
+# Local Agent workflow: keep these files out of the GitHub repository
+AGENTS.md
+README.md
+project-config.yaml
+docs/ai-memory/
+docs/ai-workspace-bootstrap-methodology.md
+docs/workflow-context-packages.md
+docs/current-task-card.md
+docs/current-task-card.json
+tools/task-card-utils.ps1
+tools/check-task-gate.ps1
+tools/check-task-scope.ps1
+tools/check-scene-visual-contract.ps1
+tools/check-runtime-visual-contract.ps1
+tools/verify-task.ps1
